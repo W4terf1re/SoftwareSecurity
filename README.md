@@ -1,2 +1,0 @@
-# SoftwareSecurity
-For softwaresecurity class
